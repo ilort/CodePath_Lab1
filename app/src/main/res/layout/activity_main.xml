@@ -24,10 +24,12 @@
 
     <Button
         android:id="@+id/addButton"
-        android:layout_width="70dp"
-        android:layout_height="70dp"
-        android:textSize="30sp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
         android:background="@drawable/pawprint"
+        android:text="@string/addButton"
+        android:textColor="#CAE7F5"
+        android:textSize="80sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
